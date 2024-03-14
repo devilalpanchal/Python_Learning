@@ -155,3 +155,8 @@ for num in range(lower, upper + 1):
 # 14. Convert Celsius to Farenheit.
 # 15. Find factorial on a number.
 # 16. Display the multiplication table.
+lower1 = int(input('enter a lower limit:'))
+upper1 = int(input('enter a upper limit"'))
+
+
+
