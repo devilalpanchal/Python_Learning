@@ -7,10 +7,10 @@ def add_numbers(num1, num2):
     # return sum_result
 number1 = float(input("Enter the first number: "))
 number2 = float(input("Enter the second number: "))
+add_numbers(num1, num2)
 # print(f"The sum of {number1} and {number2} is: {sum_result}")
 
 # add_numbers(num1,num2)
-add_numbers(num1, num2)
 
 
 # sachin sir code to add two number
